@@ -58,12 +58,9 @@ me.hello()
 
 ## 📊 My GitHub Stats
 
-<a href="https://github.com/francescobaio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescobaio&hide=html" />
-</a>
-<a href="https://github.com/francescobaio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescobaio&count_private=true&show_icons=true&line_height=33" alt="Francesco's github stats" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescobaio&hide=html)
+![Francesco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francescobaio&count_private=true&show_icons=true&line_height=33)
+
 
 
 
