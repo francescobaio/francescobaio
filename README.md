@@ -55,3 +55,10 @@ me = MySelf()
 me.display_information()
 me.hello()
 
+
+## 📊 My GitHub Stats
+
+![Francesco Baiocchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescobaio&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescobaio&layout=compact&theme=radical)
+
