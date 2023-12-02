@@ -58,8 +58,8 @@ me.hello()
 
 ## 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescobaio&hide=html&nocache=1)
-![Francesco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francescobaio&count_private=true&show_icons=true&line_height=33&nocache=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescobaio&hide=html)
+![Francesco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francescobaio&count_private=true&show_icons=true&line_height=33)
 
 
 
