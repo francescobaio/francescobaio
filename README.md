@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="[https://github.com/francescobaio/francescobaio/blob/main/wave.gif]" width="30px">
+### Hi there 👋 <img src="https://github.com/francescobaio/francescobaio/blob/main/wave.gif" width="30px">
 [![Linkedin: francesco-baiocchi](https://img.shields.io/badge/-Francesco%20Baiocchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francesco-baiocchi-1aa2a2276/)](https://www.linkedin.com/in/francesco-baiocchi-1aa2a2276/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=francescobaio)
 
@@ -58,7 +58,7 @@ me.hello()
 
 ## 📊 My GitHub Stats
 
-![Francesco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Francesco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francescobaio&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescobaio&layout=compact&theme=radical)
 
