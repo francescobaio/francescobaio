@@ -2,18 +2,56 @@
 [![Linkedin: francesco-baiocchi](https://img.shields.io/badge/-Francesco%20Baiocchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francesco-baiocchi-1aa2a2276/)](https://www.linkedin.com/in/francesco-baiocchi-1aa2a2276/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=francescobaio)
 
+#### 👨 About me
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<!--
-**francescobaio/francescobaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+class MySelf:
+    """
+    A class to represent personal details and interests of Francesco Baiocchi.
+    """
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "👀 Francesco Baiocchi"
+        self.languages = ["🇮🇹 Italian", "🇬🇧 English"]
+        self.education = {
+            "BSc": {
+                "Degree": "🖥️ Computer Science",
+                "University": "🟦 University of Florence"
+            },
+            "MSc": {
+                "Degree": "🤖 Artificial Intelligence",
+                "University": "🟥 University of Bologna"
+            }
+        }
+        self.roles = ["👨‍🔬 AI Research Engineer", "🧑‍💻 Software Engineer"]
+        self.hobbies = [ "♟️ Chess", "🚴 Cycling", "🌍 Travelling"]
+        self.interests = ["💬 Machine Learning (ML)", "🌳 Bayesian Networks (BNs)"]
+        self.website = "🌐 Loading..."
+
+
+    def display_information(self):
+        """
+        Prints informations about Francesco.
+        """
+        print(f"👤 Name: {self.name}\n"
+              f"🗣️ Languages: {', '.join(self.languages)}\n"
+              f"💼 Roles: {', '.join(self.roles)}\n"
+              f"🎯 Interests: {', '.join(self.interests)}\n"
+              f"🕹️ Hobbies: {', '.join(self.hobbies)}\n"
+              f"🌍 Website: {self.website}")
+
+
+    def hello(self):
+        """
+        Prints a welcome message.
+        """
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = MySelf()
+me.display_information()
+me.hello()
+
