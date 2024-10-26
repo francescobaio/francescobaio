@@ -32,37 +32,6 @@ class MySelf:
         self.website = "🌐 Loading..."
 
 
-    def display_information(self):
-        """
-        Prints informations about Francesco.
-        """
-        print(f"👤 Name: {self.name}\n"
-              f"🗣️ Languages: {', '.join(self.languages)}\n"
-              f"💼 Roles: {', '.join(self.roles)}\n"
-              f"🎯 Interests: {', '.join(self.interests)}\n"
-              f"🕹️ Hobbies: {', '.join(self.hobbies)}\n"
-              f"🌍 Website: {self.website}")
-
-
-    def hello(self):
-        """
-        Prints a welcome message.
-        """
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
 me = MySelf()
 me.display_information()
 me.hello()
-
-
-## 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescobaio&hide=html)
-![Francesco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francescobaio&count_private=true&show_icons=true&line_height=33)
-
-
-
-
-
-
