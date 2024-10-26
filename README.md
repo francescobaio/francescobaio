@@ -30,8 +30,3 @@ class MySelf:
         self.hobbies = [ "♟️ Chess", "🚴 Cycling", "🌍 Travelling"]
         self.interests = ["💬 Machine Learning (ML)", "🌳 Bayesian Networks (BNs)"]
         self.website = "🌐 Loading..."
-
-
-me = MySelf()
-me.display_information()
-me.hello()
