@@ -11,5 +11,5 @@ Some of my recent work and interests:
 * Typed and validated YAML configurations for machine learning projects, with dynamic object instantiation and experiment configuration.
 * Vision-Language Models for Document Understanding, with a focus on DocVQA, interpretability, visual grounding, and explainability. Currently part of my MSc thesis work in Paris.
 
-📧 [contact [at] francescobaio [dot] com](francesco.baiocchi2@studio.unibo.it)<br>
+📧 [contact [at] francesco.baiocchi [dot] unibo](mailto:francesco.baiocchi2@studio.unibo.it)<br>
 🌐 [francescobaiocchi.eu](https://francescobaiocchi.eu)
